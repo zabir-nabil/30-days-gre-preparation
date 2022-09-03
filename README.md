@@ -11,6 +11,7 @@ Expeditious GRE preparation in a week! https://www.youtube.com/watch?v=VTKowCh43
  * GRE vocab app with cartoon (50 words) [traveling, on car; while coming back to home] `[v5]`
  * GRE word bot (daily 2 set) [traveling, on car; while going to office] `[v6]`
  * Watch the verbal videos [during lunch break] https://www.youtube.com/playlist?list=PLFzybs-0YWa1bTohN3TrHqzrt6JPOtrf_ `[v7]`
+ * 5 articles (1 article a day) https://brightlinkprep.com/articles-containing-gre-vocabulary-part-1/ `[v8]`
  
 ### GRE Quant review
  * Quant review based on "Official ETS Math Review" `[q1]`

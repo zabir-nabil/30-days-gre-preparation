@@ -1,1355 +1,1355 @@
 --------------------------------------------------------------------
-## Day 1
+## Day 1 [word] ([frequency])
 --------------------------------------------------------------------
- * `aesthetic`          | freq.: 6
- * `alacrity`           | freq.: 6
- * `approbation`        | freq.: 6
- * `archaic`            | freq.: 6
- * `ascetic`            | freq.: 6
- * `assuage`            | freq.: 6
- * `attenuate`          | freq.: 6
- * `audacious`          | freq.: 6
- * `augment`            | freq.: 6
- * `austere`            | freq.: 6
- * `banal`              | freq.: 6
- * `capricious`         | freq.: 6
- * `censure`            | freq.: 6
- * `coalesce`           | freq.: 6
- * `corroborate`        | freq.: 6
- * `craven`             | freq.: 6
- * `demur`              | freq.: 6
- * `deride`             | freq.: 6
- * `derivative`         | freq.: 6
- * `diatribe`           | freq.: 6
- * `didactic`           | freq.: 6
- * `diffident`          | freq.: 6
- * `dilatory`           | freq.: 6
- * `disparate`          | freq.: 6
- * `egregious`          | freq.: 6
- * `ephemeral`          | freq.: 6
- * `eschew`             | freq.: 6
- * `esoteric`           | freq.: 6
- * `facetious`          | freq.: 6
- * `fractious`          | freq.: 6
- * `garrulous`          | freq.: 6
- * `hackneyed`          | freq.: 6
- * `immutable`          | freq.: 6
- * `impetuous`          | freq.: 6
- * `impugn`             | freq.: 6
- * `inimical`           | freq.: 6
- * `innocuous`          | freq.: 6
- * `insipid`            | freq.: 6
- * `irascible`          | freq.: 6
- * `laconic`            | freq.: 6
- * `lucid`              | freq.: 6
- * `malleable`          | freq.: 6
- * `mercurial`          | freq.: 6
- * `meticulous`         | freq.: 6
- * `mitigate`           | freq.: 6
- * `obsequious`         | freq.: 6
- * `obstinate`          | freq.: 6
- * `opaque`             | freq.: 6
- * `perfunctory`        | freq.: 6
- * `pernicious`         | freq.: 6
- * `phlegmatic`         | freq.: 6
- * `platitude`          | freq.: 6
- * `predilection`       | freq.: 6
- * `pristine`           | freq.: 6
- * `prodigal`           | freq.: 6
- * `prosaic`            | freq.: 6
- * `puerile`            | freq.: 6
- * `pugnacious`         | freq.: 6
- * `quixotic`           | freq.: 6
- * `recondite`          | freq.: 6
- * `refute`             | freq.: 6
- * `repudiate`          | freq.: 6
- * `reticent`           | freq.: 6
- * `sanguine`           | freq.: 6
- * `sedulous`           | freq.: 6
- * `soporific`          | freq.: 6
- * `taciturn`           | freq.: 6
- * `umbrage`            | freq.: 6
- * `acerbic`            | freq.: 5
- * `acumen`             | freq.: 5
- * `advocate`           | freq.: 5
- * `affable`            | freq.: 5
- * `amenable`           | freq.: 5
- * `anodyne`            | freq.: 5
- * `apocryphal`         | freq.: 5
- * `arcane`             | freq.: 5
- * `arduous`            | freq.: 5
- * `artless`            | freq.: 5
- * `assail`             | freq.: 5
- * `benign`             | freq.: 5
- * `blithe`             | freq.: 5
- * `bucolic`            | freq.: 5
- * `buttress`           | freq.: 5
- * `byzantine`          | freq.: 5
- * `canard`             | freq.: 5
- * `castigate`          | freq.: 5
- * `chicanery`          | freq.: 5
- * `churlish`           | freq.: 5
- * `circumspect`        | freq.: 5
- * `commensurate`       | freq.: 5
- * `conspicuous`        | freq.: 5
- * `copious`            | freq.: 5
- * `denigrate`          | freq.: 5
- * `dissemble`          | freq.: 5
- * `dogmatic`           | freq.: 5
- * `dupe`               | freq.: 5
- * `ebullient`          | freq.: 5
- * `eclectic`           | freq.: 5
- * `effrontery`         | freq.: 5
- * `empirical`          | freq.: 5
- * `erudite`            | freq.: 5
- * `evanescent`         | freq.: 5
- * `expurgate`          | freq.: 5
- * `extraneous`         | freq.: 5
- * `fastidious`         | freq.: 5
- * `fecund`             | freq.: 5
- * `foment`             | freq.: 5
- * `fortuitous`         | freq.: 5
- * `furtive`            | freq.: 5
- * `gainsay`            | freq.: 5
- * `germane`            | freq.: 5
- * `gregarious`         | freq.: 5
- * `harangue`           | freq.: 5
- * `hegemony`           | freq.: 5
- * `idiosyncrasy`       | freq.: 5
- * `imperious`          | freq.: 5
- * `implacable`         | freq.: 5
- * `inchoate`           | freq.: 5
- * `ingenuous`          | freq.: 5
- * `insular`            | freq.: 5
- * `intrepid`           | freq.: 5
- * `invidious`          | freq.: 5
- * `lachrymose`         | freq.: 5
- * `languid`            | freq.: 5
- * `loquacious`         | freq.: 5
- * `lugubrious`         | freq.: 5
- * `mendicant`          | freq.: 5
- * `morose`             | freq.: 5
- * `mundane`            | freq.: 5
- * `munificent`         | freq.: 5
- * `myopic`             | freq.: 5
- * `nadir`              | freq.: 5
- * `nascent`            | freq.: 5
- * `neophyte`           | freq.: 5
- * `noisome`            | freq.: 5
- * `obdurate`           | freq.: 5
- * `obstreperous`       | freq.: 5
- * `officious`          | freq.: 5
- * `opprobrium`         | freq.: 5
- * `ostentatious`       | freq.: 5
- * `panacea`            | freq.: 5
- * `pariah`             | freq.: 5
- * `parsimonious`       | freq.: 5
- * `paucity`            | freq.: 5
- * `pedantic`           | freq.: 5
- * `pedestrian`         | freq.: 5
- * `perennial`          | freq.: 5
- * `peripatetic`        | freq.: 5
- * `pervasive`          | freq.: 5
- * `petulant`           | freq.: 5
- * `placate`            | freq.: 5
- * `pragmatic`          | freq.: 5
- * `precarious`         | freq.: 5
- * `proclivity`         | freq.: 5
- * `prodigious`         | freq.: 5
- * `profuse`            | freq.: 5
- * `proliferate`        | freq.: 5
- * `propensity`         | freq.: 5
- * `provincial`         | freq.: 5
- * `prudent`            | freq.: 5
- * `punctilious`        | freq.: 5
- * `querulous`          | freq.: 5
- * `quotidian`          | freq.: 5
- * `replete`            | freq.: 5
- * `restive`            | freq.: 5
- * `salubrious`         | freq.: 5
- * `solicitous`         | freq.: 5
- * `specious`           | freq.: 5
- * `spurious`           | freq.: 5
- * `supplant`           | freq.: 5
- * `surreptitious`      | freq.: 5
- * `sycophant`          | freq.: 5
- * `tendentious`        | freq.: 5
- * `timorous`           | freq.: 5
- * `tirade`             | freq.: 5
- * `tortuous`           | freq.: 5
- * `truculent`          | freq.: 5
- * `turgid`             | freq.: 5
- * `turpitude`          | freq.: 5
- * `ubiquitous`         | freq.: 5
- * `vociferous`         | freq.: 5
- * `whimsical`          | freq.: 5
- * `abjure`             | freq.: 5
- * `ameliorate`         | freq.: 5
- * `burgeon`            | freq.: 5
- * `calumny`            | freq.: 5
- * `cogent`             | freq.: 5
- * `contrite`           | freq.: 5
- * `deleterious`        | freq.: 5
- * `disingenuous`       | freq.: 5
- * `emulate`            | freq.: 5
- * `engender`           | freq.: 5
- * `exacerbate`         | freq.: 5
- * `exonerate`          | freq.: 5
- * `fawn`               | freq.: 5
- * `glib`               | freq.: 5
- * `intransigent`       | freq.: 5
- * `inundate`           | freq.: 5
- * `limpid`             | freq.: 5
- * `mollify`            | freq.: 5
+ * `aesthetic`          (6)
+ * `alacrity`           (6)
+ * `approbation`        (6)
+ * `archaic`            (6)
+ * `ascetic`            (6)
+ * `assuage`            (6)
+ * `attenuate`          (6)
+ * `audacious`          (6)
+ * `augment`            (6)
+ * `austere`            (6)
+ * `banal`              (6)
+ * `capricious`         (6)
+ * `censure`            (6)
+ * `coalesce`           (6)
+ * `corroborate`        (6)
+ * `craven`             (6)
+ * `demur`              (6)
+ * `deride`             (6)
+ * `derivative`         (6)
+ * `diatribe`           (6)
+ * `didactic`           (6)
+ * `diffident`          (6)
+ * `dilatory`           (6)
+ * `disparate`          (6)
+ * `egregious`          (6)
+ * `ephemeral`          (6)
+ * `eschew`             (6)
+ * `esoteric`           (6)
+ * `facetious`          (6)
+ * `fractious`          (6)
+ * `garrulous`          (6)
+ * `hackneyed`          (6)
+ * `immutable`          (6)
+ * `impetuous`          (6)
+ * `impugn`             (6)
+ * `inimical`           (6)
+ * `innocuous`          (6)
+ * `insipid`            (6)
+ * `irascible`          (6)
+ * `laconic`            (6)
+ * `lucid`              (6)
+ * `malleable`          (6)
+ * `mercurial`          (6)
+ * `meticulous`         (6)
+ * `mitigate`           (6)
+ * `obsequious`         (6)
+ * `obstinate`          (6)
+ * `opaque`             (6)
+ * `perfunctory`        (6)
+ * `pernicious`         (6)
+ * `phlegmatic`         (6)
+ * `platitude`          (6)
+ * `predilection`       (6)
+ * `pristine`           (6)
+ * `prodigal`           (6)
+ * `prosaic`            (6)
+ * `puerile`            (6)
+ * `pugnacious`         (6)
+ * `quixotic`           (6)
+ * `recondite`          (6)
+ * `refute`             (6)
+ * `repudiate`          (6)
+ * `reticent`           (6)
+ * `sanguine`           (6)
+ * `sedulous`           (6)
+ * `soporific`          (6)
+ * `taciturn`           (6)
+ * `umbrage`            (6)
+ * `acerbic`            (5)
+ * `acumen`             (5)
+ * `advocate`           (5)
+ * `affable`            (5)
+ * `amenable`           (5)
+ * `anodyne`            (5)
+ * `apocryphal`         (5)
+ * `arcane`             (5)
+ * `arduous`            (5)
+ * `artless`            (5)
+ * `assail`             (5)
+ * `benign`             (5)
+ * `blithe`             (5)
+ * `bucolic`            (5)
+ * `buttress`           (5)
+ * `byzantine`          (5)
+ * `canard`             (5)
+ * `castigate`          (5)
+ * `chicanery`          (5)
+ * `churlish`           (5)
+ * `circumspect`        (5)
+ * `commensurate`       (5)
+ * `conspicuous`        (5)
+ * `copious`            (5)
+ * `denigrate`          (5)
+ * `dissemble`          (5)
+ * `dogmatic`           (5)
+ * `dupe`               (5)
+ * `ebullient`          (5)
+ * `eclectic`           (5)
+ * `effrontery`         (5)
+ * `empirical`          (5)
+ * `erudite`            (5)
+ * `evanescent`         (5)
+ * `expurgate`          (5)
+ * `extraneous`         (5)
+ * `fastidious`         (5)
+ * `fecund`             (5)
+ * `foment`             (5)
+ * `fortuitous`         (5)
+ * `furtive`            (5)
+ * `gainsay`            (5)
+ * `germane`            (5)
+ * `gregarious`         (5)
+ * `harangue`           (5)
+ * `hegemony`           (5)
+ * `idiosyncrasy`       (5)
+ * `imperious`          (5)
+ * `implacable`         (5)
+ * `inchoate`           (5)
+ * `ingenuous`          (5)
+ * `insular`            (5)
+ * `intrepid`           (5)
+ * `invidious`          (5)
+ * `lachrymose`         (5)
+ * `languid`            (5)
+ * `loquacious`         (5)
+ * `lugubrious`         (5)
+ * `mendicant`          (5)
+ * `morose`             (5)
+ * `mundane`            (5)
+ * `munificent`         (5)
+ * `myopic`             (5)
+ * `nadir`              (5)
+ * `nascent`            (5)
+ * `neophyte`           (5)
+ * `noisome`            (5)
+ * `obdurate`           (5)
+ * `obstreperous`       (5)
+ * `officious`          (5)
+ * `opprobrium`         (5)
+ * `ostentatious`       (5)
+ * `panacea`            (5)
+ * `pariah`             (5)
+ * `parsimonious`       (5)
+ * `paucity`            (5)
+ * `pedantic`           (5)
+ * `pedestrian`         (5)
+ * `perennial`          (5)
+ * `peripatetic`        (5)
+ * `pervasive`          (5)
+ * `petulant`           (5)
+ * `placate`            (5)
+ * `pragmatic`          (5)
+ * `precarious`         (5)
+ * `proclivity`         (5)
+ * `prodigious`         (5)
+ * `profuse`            (5)
+ * `proliferate`        (5)
+ * `propensity`         (5)
+ * `provincial`         (5)
+ * `prudent`            (5)
+ * `punctilious`        (5)
+ * `querulous`          (5)
+ * `quotidian`          (5)
+ * `replete`            (5)
+ * `restive`            (5)
+ * `salubrious`         (5)
+ * `solicitous`         (5)
+ * `specious`           (5)
+ * `spurious`           (5)
+ * `supplant`           (5)
+ * `surreptitious`      (5)
+ * `sycophant`          (5)
+ * `tendentious`        (5)
+ * `timorous`           (5)
+ * `tirade`             (5)
+ * `tortuous`           (5)
+ * `truculent`          (5)
+ * `turgid`             (5)
+ * `turpitude`          (5)
+ * `ubiquitous`         (5)
+ * `vociferous`         (5)
+ * `whimsical`          (5)
+ * `abjure`             (5)
+ * `ameliorate`         (5)
+ * `burgeon`            (5)
+ * `calumny`            (5)
+ * `cogent`             (5)
+ * `contrite`           (5)
+ * `deleterious`        (5)
+ * `disingenuous`       (5)
+ * `emulate`            (5)
+ * `engender`           (5)
+ * `exacerbate`         (5)
+ * `exonerate`          (5)
+ * `fawn`               (5)
+ * `glib`               (5)
+ * `intransigent`       (5)
+ * `inundate`           (5)
+ * `limpid`             (5)
+ * `mollify`            (5)
 --------------------------------------------------------------------
-## Day 2
+## Day 2 [word] ([frequency])
 --------------------------------------------------------------------
- * `panache`            | freq.: 5
- * `precipitate`        | freq.: 5
- * `prevaricate`        | freq.: 5
- * `probity`            | freq.: 5
- * `profligate`         | freq.: 5
- * `reproach`           | freq.: 5
- * `sagacious`          | freq.: 5
- * `sanction`           | freq.: 5
- * `upbraid`            | freq.: 5
- * `vacillate`          | freq.: 5
- * `abate`              | freq.: 4
- * `accretion`          | freq.: 4
- * `acme`               | freq.: 4
- * `adroit`             | freq.: 4
- * `adulterate`         | freq.: 4
- * `affectation`        | freq.: 4
- * `amalgamate`         | freq.: 4
- * `amortize`           | freq.: 4
- * `anomaly`            | freq.: 4
- * `arbitrary`          | freq.: 4
- * `arrogate`           | freq.: 4
- * `asperity`           | freq.: 4
- * `assiduous`          | freq.: 4
- * `august`             | freq.: 4
- * `auspicious`         | freq.: 4
- * `base`               | freq.: 4
- * `cacophony`          | freq.: 4
- * `cardinal`           | freq.: 4
- * `collusion`          | freq.: 4
- * `confound`           | freq.: 4
- * `connoisseur`        | freq.: 4
- * `contumacious`       | freq.: 4
- * `cosmopolitan`       | freq.: 4
- * `covert`             | freq.: 4
- * `diaphanous`         | freq.: 4
- * `dichotomy`          | freq.: 4
- * `dilettante`         | freq.: 4
- * `discomfit`          | freq.: 4
- * `discreet`           | freq.: 4
- * `discrepancy`        | freq.: 4
- * `discrete`           | freq.: 4
- * `disparage`          | freq.: 4
- * `droll`              | freq.: 4
- * `dubious`            | freq.: 4
- * `efficacious`        | freq.: 4
- * `embellish`          | freq.: 4
- * `eminent`            | freq.: 4
- * `encomium`           | freq.: 4
- * `equivocal`          | freq.: 4
- * `ersatz`             | freq.: 4
- * `espouse`            | freq.: 4
- * `estimable`          | freq.: 4
- * `euphemism`          | freq.: 4
- * `exacting`           | freq.: 4
- * `extemporaneous`     | freq.: 4
- * `extrapolate`        | freq.: 4
- * `fatuous`            | freq.: 4
- * `feckless`           | freq.: 4
- * `fetid`              | freq.: 4
- * `florid`             | freq.: 4
- * `forestall`          | freq.: 4
- * `frugal`             | freq.: 4
- * `gauche`             | freq.: 4
- * `genial`             | freq.: 4
- * `grovel`             | freq.: 4
- * `halcyon`            | freq.: 4
- * `hermetic`           | freq.: 4
- * `histrionic`         | freq.: 4
- * `hodgepodge`         | freq.: 4
- * `hubris`             | freq.: 4
- * `iconoclast`         | freq.: 4
- * `illusory`           | freq.: 4
- * `impecunious`        | freq.: 4
- * `imperturbable`      | freq.: 4
- * `implicit`           | freq.: 4
- * `incipient`          | freq.: 4
- * `incorrigible`       | freq.: 4
- * `indefatigable`      | freq.: 4
- * `ineffable`          | freq.: 4
- * `inexorable`         | freq.: 4
- * `ingratiate`         | freq.: 4
- * `inscrutable`        | freq.: 4
- * `intimate`           | freq.: 4
- * `inveigle`           | freq.: 4
- * `irresolute`         | freq.: 4
- * `jettison`           | freq.: 4
- * `jingoism`           | freq.: 4
- * `judicious`          | freq.: 4
- * `juxtapose`          | freq.: 4
- * `lampoon`            | freq.: 4
- * `largess`            | freq.: 4
- * `lassitude`          | freq.: 4
- * `latent`             | freq.: 4
- * `laudable`           | freq.: 4
- * `levity`             | freq.: 4
- * `magnanimous`        | freq.: 4
- * `magnate`            | freq.: 4
- * `malevolent`         | freq.: 4
- * `malinger`           | freq.: 4
- * `maudlin`            | freq.: 4
- * `mendacity`          | freq.: 4
- * `meretricious`       | freq.: 4
- * `misanthrope`        | freq.: 4
- * `miscreant`          | freq.: 4
- * `mordant`            | freq.: 4
- * `nonplussed`         | freq.: 4
- * `noxious`            | freq.: 4
- * `nuance`             | freq.: 4
- * `palliate`           | freq.: 4
- * `paragon`            | freq.: 4
- * `partisan`           | freq.: 4
- * `penchant`           | freq.: 4
- * `perfidy`            | freq.: 4
- * `peripheral`         | freq.: 4
- * `pith`               | freq.: 4
- * `posit`              | freq.: 4
- * `prattle`            | freq.: 4
- * `prolix`             | freq.: 4
- * `propagate`          | freq.: 4
- * `propriety`          | freq.: 4
- * `pulchritude`        | freq.: 4
- * `pusillanimous`      | freq.: 4
- * `quiescent`          | freq.: 4
- * `raconteur`          | freq.: 4
- * `recalcitrant`       | freq.: 4
- * `redress`            | freq.: 4
- * `refractory`         | freq.: 4
- * `remedial`           | freq.: 4
- * `reprobate`          | freq.: 4
- * `reverent`           | freq.: 4
- * `rudimentary`        | freq.: 4
- * `salient`            | freq.: 4
- * `sardonic`           | freq.: 4
- * `schism`             | freq.: 4
- * `scintillating`      | freq.: 4
- * `scrupulous`         | freq.: 4
- * `slake`              | freq.: 4
- * `solecism`           | freq.: 4
- * `spendthrift`        | freq.: 4
- * `squalid`            | freq.: 4
- * `stolid`             | freq.: 4
- * `surly`              | freq.: 4
- * `sybarite`           | freq.: 4
- * `terse`              | freq.: 4
- * `transitory`         | freq.: 4
- * `undermine`          | freq.: 4
- * `underscore`         | freq.: 4
- * `untenable`          | freq.: 4
- * `urbane`             | freq.: 4
- * `verbose`            | freq.: 4
- * `vestige`            | freq.: 4
- * `virulent`           | freq.: 4
- * `vitiate`            | freq.: 4
- * `vitriolic`          | freq.: 4
- * `volatile`           | freq.: 4
- * `wane`               | freq.: 4
- * `wizened`            | freq.: 4
- * `zealous`            | freq.: 4
- * `zenith`             | freq.: 4
- * `abstain`            | freq.: 4
- * `admonish`           | freq.: 4
- * `aggrandize`         | freq.: 4
- * `antipathy`          | freq.: 4
- * `apathy`             | freq.: 4
- * `belie`              | freq.: 4
- * `bolster`            | freq.: 4
- * `brook`              | freq.: 4
- * `caustic`            | freq.: 4
- * `cavalier`           | freq.: 4
- * `contentious`        | freq.: 4
- * `convoluted`         | freq.: 4
- * `cumbersome`         | freq.: 4
- * `dearth`             | freq.: 4
- * `debunk`             | freq.: 4
- * `desiccate`          | freq.: 4
- * `desultory`          | freq.: 4
- * `disseminate`        | freq.: 4
- * `eccentric`          | freq.: 4
- * `elicit`             | freq.: 4
- * `elucidate`          | freq.: 4
- * `enervate`           | freq.: 4
- * `equivocate`         | freq.: 4
- * `exculpate`          | freq.: 4
- * `indolent`           | freq.: 4
- * `lament`             | freq.: 4
- * `lethargic`          | freq.: 4
- * `libertine`          | freq.: 4
- * `obviate`            | freq.: 4
- * `onerous`            | freq.: 4
- * `patent`             | freq.: 4
- * `pellucid`           | freq.: 4
- * `pious`              | freq.: 4
- * `pithy`              | freq.: 4
- * `placid`             | freq.: 4
- * `presumptuous`       | freq.: 4
- * `sporadic`           | freq.: 4
- * `superfluous`        | freq.: 4
- * `tractable`          | freq.: 4
- * `trenchant`          | freq.: 4
- * `venerate`           | freq.: 4
+ * `panache`            (5)
+ * `precipitate`        (5)
+ * `prevaricate`        (5)
+ * `probity`            (5)
+ * `profligate`         (5)
+ * `reproach`           (5)
+ * `sagacious`          (5)
+ * `sanction`           (5)
+ * `upbraid`            (5)
+ * `vacillate`          (5)
+ * `abate`              (4)
+ * `accretion`          (4)
+ * `acme`               (4)
+ * `adroit`             (4)
+ * `adulterate`         (4)
+ * `affectation`        (4)
+ * `amalgamate`         (4)
+ * `amortize`           (4)
+ * `anomaly`            (4)
+ * `arbitrary`          (4)
+ * `arrogate`           (4)
+ * `asperity`           (4)
+ * `assiduous`          (4)
+ * `august`             (4)
+ * `auspicious`         (4)
+ * `base`               (4)
+ * `cacophony`          (4)
+ * `cardinal`           (4)
+ * `collusion`          (4)
+ * `confound`           (4)
+ * `connoisseur`        (4)
+ * `contumacious`       (4)
+ * `cosmopolitan`       (4)
+ * `covert`             (4)
+ * `diaphanous`         (4)
+ * `dichotomy`          (4)
+ * `dilettante`         (4)
+ * `discomfit`          (4)
+ * `discreet`           (4)
+ * `discrepancy`        (4)
+ * `discrete`           (4)
+ * `disparage`          (4)
+ * `droll`              (4)
+ * `dubious`            (4)
+ * `efficacious`        (4)
+ * `embellish`          (4)
+ * `eminent`            (4)
+ * `encomium`           (4)
+ * `equivocal`          (4)
+ * `ersatz`             (4)
+ * `espouse`            (4)
+ * `estimable`          (4)
+ * `euphemism`          (4)
+ * `exacting`           (4)
+ * `extemporaneous`     (4)
+ * `extrapolate`        (4)
+ * `fatuous`            (4)
+ * `feckless`           (4)
+ * `fetid`              (4)
+ * `florid`             (4)
+ * `forestall`          (4)
+ * `frugal`             (4)
+ * `gauche`             (4)
+ * `genial`             (4)
+ * `grovel`             (4)
+ * `halcyon`            (4)
+ * `hermetic`           (4)
+ * `histrionic`         (4)
+ * `hodgepodge`         (4)
+ * `hubris`             (4)
+ * `iconoclast`         (4)
+ * `illusory`           (4)
+ * `impecunious`        (4)
+ * `imperturbable`      (4)
+ * `implicit`           (4)
+ * `incipient`          (4)
+ * `incorrigible`       (4)
+ * `indefatigable`      (4)
+ * `ineffable`          (4)
+ * `inexorable`         (4)
+ * `ingratiate`         (4)
+ * `inscrutable`        (4)
+ * `intimate`           (4)
+ * `inveigle`           (4)
+ * `irresolute`         (4)
+ * `jettison`           (4)
+ * `jingoism`           (4)
+ * `judicious`          (4)
+ * `juxtapose`          (4)
+ * `lampoon`            (4)
+ * `largess`            (4)
+ * `lassitude`          (4)
+ * `latent`             (4)
+ * `laudable`           (4)
+ * `levity`             (4)
+ * `magnanimous`        (4)
+ * `magnate`            (4)
+ * `malevolent`         (4)
+ * `malinger`           (4)
+ * `maudlin`            (4)
+ * `mendacity`          (4)
+ * `meretricious`       (4)
+ * `misanthrope`        (4)
+ * `miscreant`          (4)
+ * `mordant`            (4)
+ * `nonplussed`         (4)
+ * `noxious`            (4)
+ * `nuance`             (4)
+ * `palliate`           (4)
+ * `paragon`            (4)
+ * `partisan`           (4)
+ * `penchant`           (4)
+ * `perfidy`            (4)
+ * `peripheral`         (4)
+ * `pith`               (4)
+ * `posit`              (4)
+ * `prattle`            (4)
+ * `prolix`             (4)
+ * `propagate`          (4)
+ * `propriety`          (4)
+ * `pulchritude`        (4)
+ * `pusillanimous`      (4)
+ * `quiescent`          (4)
+ * `raconteur`          (4)
+ * `recalcitrant`       (4)
+ * `redress`            (4)
+ * `refractory`         (4)
+ * `remedial`           (4)
+ * `reprobate`          (4)
+ * `reverent`           (4)
+ * `rudimentary`        (4)
+ * `salient`            (4)
+ * `sardonic`           (4)
+ * `schism`             (4)
+ * `scintillating`      (4)
+ * `scrupulous`         (4)
+ * `slake`              (4)
+ * `solecism`           (4)
+ * `spendthrift`        (4)
+ * `squalid`            (4)
+ * `stolid`             (4)
+ * `surly`              (4)
+ * `sybarite`           (4)
+ * `terse`              (4)
+ * `transitory`         (4)
+ * `undermine`          (4)
+ * `underscore`         (4)
+ * `untenable`          (4)
+ * `urbane`             (4)
+ * `verbose`            (4)
+ * `vestige`            (4)
+ * `virulent`           (4)
+ * `vitiate`            (4)
+ * `vitriolic`          (4)
+ * `volatile`           (4)
+ * `wane`               (4)
+ * `wizened`            (4)
+ * `zealous`            (4)
+ * `zenith`             (4)
+ * `abstain`            (4)
+ * `admonish`           (4)
+ * `aggrandize`         (4)
+ * `antipathy`          (4)
+ * `apathy`             (4)
+ * `belie`              (4)
+ * `bolster`            (4)
+ * `brook`              (4)
+ * `caustic`            (4)
+ * `cavalier`           (4)
+ * `contentious`        (4)
+ * `convoluted`         (4)
+ * `cumbersome`         (4)
+ * `dearth`             (4)
+ * `debunk`             (4)
+ * `desiccate`          (4)
+ * `desultory`          (4)
+ * `disseminate`        (4)
+ * `eccentric`          (4)
+ * `elicit`             (4)
+ * `elucidate`          (4)
+ * `enervate`           (4)
+ * `equivocate`         (4)
+ * `exculpate`          (4)
+ * `indolent`           (4)
+ * `lament`             (4)
+ * `lethargic`          (4)
+ * `libertine`          (4)
+ * `obviate`            (4)
+ * `onerous`            (4)
+ * `patent`             (4)
+ * `pellucid`           (4)
+ * `pious`              (4)
+ * `pithy`              (4)
+ * `placid`             (4)
+ * `presumptuous`       (4)
+ * `sporadic`           (4)
+ * `superfluous`        (4)
+ * `tractable`          (4)
+ * `trenchant`          (4)
+ * `venerate`           (4)
 --------------------------------------------------------------------
-## Day 3
+## Day 3 [word] ([frequency])
 --------------------------------------------------------------------
- * `veracity`           | freq.: 4
- * `verisimilitude`     | freq.: 4
- * `aberrant`           | freq.: 4
- * `apostate`           | freq.: 4
- * `avarice`            | freq.: 4
- * `cupidity`           | freq.: 4
- * `curmudgeon`         | freq.: 4
- * `decorous`           | freq.: 4
- * `disabuse`           | freq.: 4
- * `endemic`            | freq.: 4
- * `enumerate`          | freq.: 4
- * `ignoble`            | freq.: 4
- * `impute`             | freq.: 4
- * `invective`          | freq.: 4
- * `itinerant`          | freq.: 4
- * `maverick`           | freq.: 4
- * `oblique`            | freq.: 4
- * `panegyric`          | freq.: 4
- * `philistine`         | freq.: 4
- * `propitiate`         | freq.: 4
- * `relegate`           | freq.: 4
- * `rescind`            | freq.: 4
- * `ribald`             | freq.: 4
- * `sinecure`           | freq.: 4
- * `surfeit`            | freq.: 4
- * `tawdry`             | freq.: 4
- * `tyro`               | freq.: 4
- * `abeyance`           | freq.: 3
- * `abhor`              | freq.: 3
- * `abrasive`           | freq.: 3
- * `abrogate`           | freq.: 3
- * `abscission`         | freq.: 3
- * `abstruse`           | freq.: 3
- * `abysmal`            | freq.: 3
- * `accolade`           | freq.: 3
- * `acidulous`          | freq.: 3
- * `alleviate`          | freq.: 3
- * `anachronism`        | freq.: 3
- * `anathema`           | freq.: 3
- * `animosity`          | freq.: 3
- * `antedate`           | freq.: 3
- * `antithesis`         | freq.: 3
- * `apotheosis`         | freq.: 3
- * `appease`            | freq.: 3
- * `apposite`           | freq.: 3
- * `articulate`         | freq.: 3
- * `astute`             | freq.: 3
- * `avaricious`         | freq.: 3
- * `aver`               | freq.: 3
- * `aversion`           | freq.: 3
- * `baleful`            | freq.: 3
- * `bellicose`          | freq.: 3
- * `bonhomie`           | freq.: 3
- * `boor`               | freq.: 3
- * `brazen`             | freq.: 3
- * `bromide`            | freq.: 3
- * `cajole`             | freq.: 3
- * `capitulate`         | freq.: 3
- * `celerity`           | freq.: 3
- * `cerebral`           | freq.: 3
- * `chagrin`            | freq.: 3
- * `chary`              | freq.: 3
- * `choleric`           | freq.: 3
- * `clandestine`        | freq.: 3
- * `cloying`            | freq.: 3
- * `concomitant`        | freq.: 3
- * `conflagration`      | freq.: 3
- * `conflate`           | freq.: 3
- * `conundrum`          | freq.: 3
- * `credulous`          | freq.: 3
- * `despot`             | freq.: 3
- * `dispassionate`      | freq.: 3
- * `dispatch`           | freq.: 3
- * `dither`             | freq.: 3
- * `diurnal`            | freq.: 3
- * `doctrinaire`        | freq.: 3
- * `dolorous`           | freq.: 3
- * `dyspeptic`          | freq.: 3
- * `effusive`           | freq.: 3
- * `egalitarian`        | freq.: 3
- * `emollient`          | freq.: 3
- * `enigmatic`          | freq.: 3
- * `eradicate`          | freq.: 3
- * `ethereal`           | freq.: 3
- * `exigent`            | freq.: 3
- * `exorbitant`         | freq.: 3
- * `expedient`          | freq.: 3
- * `exponent`           | freq.: 3
- * `extant`             | freq.: 3
- * `extol`              | freq.: 3
- * `fallible`           | freq.: 3
- * `flippant`           | freq.: 3
- * `flounder`           | freq.: 3
- * `foible`             | freq.: 3
- * `fracas`             | freq.: 3
- * `frenetic`           | freq.: 3
- * `gaffe`              | freq.: 3
- * `gambit`             | freq.: 3
- * `gossamer`           | freq.: 3
- * `grandiloquent`      | freq.: 3
- * `grouse`             | freq.: 3
- * `hapless`            | freq.: 3
- * `harrow`             | freq.: 3
- * `heterodox`          | freq.: 3
- * `heterogeneous`      | freq.: 3
- * `homogeneous`        | freq.: 3
- * `humdrum`            | freq.: 3
- * `imbroglio`          | freq.: 3
- * `imminent`           | freq.: 3
- * `immure`             | freq.: 3
- * `impassive`          | freq.: 3
- * `inculcate`          | freq.: 3
- * `incumbent`          | freq.: 3
- * `indigenous`         | freq.: 3
- * `indignant`          | freq.: 3
- * `industrious`        | freq.: 3
- * `ineluctable`        | freq.: 3
- * `inimitable`         | freq.: 3
- * `intrinsic`          | freq.: 3
- * `inviolate`          | freq.: 3
- * `jargon`             | freq.: 3
- * `jejune`             | freq.: 3
- * `kindle`             | freq.: 3
- * `lax`                | freq.: 3
- * `legerdemain`        | freq.: 3
- * `licentious`         | freq.: 3
- * `listless`           | freq.: 3
- * `lumber`             | freq.: 3
- * `maelstrom`          | freq.: 3
- * `magisterial`        | freq.: 3
- * `makeshift`          | freq.: 3
- * `malfeasance`        | freq.: 3
- * `mawkish`            | freq.: 3
- * `mellifluous`        | freq.: 3
- * `miserly`            | freq.: 3
- * `modicum`            | freq.: 3
- * `modish`             | freq.: 3
- * `monastic`           | freq.: 3
- * `mores`              | freq.: 3
- * `moribund`           | freq.: 3
- * `myriad`             | freq.: 3
- * `nebulous`           | freq.: 3
- * `nettle`             | freq.: 3
- * `nonchalant`         | freq.: 3
- * `novel`              | freq.: 3
- * `odious`             | freq.: 3
- * `opine`              | freq.: 3
- * `ornate`             | freq.: 3
- * `orthodox`           | freq.: 3
- * `outstrip`           | freq.: 3
- * `overweening`        | freq.: 3
- * `palatial`           | freq.: 3
- * `pallid`             | freq.: 3
- * `paradigm`           | freq.: 3
- * `parley`             | freq.: 3
- * `parochial`          | freq.: 3
- * `parody`             | freq.: 3
- * `pastiche`           | freq.: 3
- * `penitent`           | freq.: 3
- * `penurious`          | freq.: 3
- * `penury`             | freq.: 3
- * `peregrinate`        | freq.: 3
- * `peremptory`         | freq.: 3
- * `perspicacious`      | freq.: 3
- * `picayune`           | freq.: 3
- * `pillory`            | freq.: 3
- * `piquant`            | freq.: 3
- * `plaintive`          | freq.: 3
- * `polemic`            | freq.: 3
- * `politic`            | freq.: 3
- * `ponderous`          | freq.: 3
- * `precocious`         | freq.: 3
- * `precursor`          | freq.: 3
- * `prescient`          | freq.: 3
- * `profound`           | freq.: 3
- * `prolific`           | freq.: 3
- * `prophetic`          | freq.: 3
- * `propitious`         | freq.: 3
- * `providential`       | freq.: 3
- * `pungent`            | freq.: 3
- * `quail`              | freq.: 3
- * `quandary`           | freq.: 3
- * `rancorous`          | freq.: 3
- * `rapacious`          | freq.: 3
- * `rarefied`           | freq.: 3
- * `raucous`            | freq.: 3
- * `recant`             | freq.: 3
- * `recrudescent`       | freq.: 3
- * `refulgent`          | freq.: 3
- * `relish`             | freq.: 3
- * `remiss`             | freq.: 3
- * `respite`            | freq.: 3
- * `robust`             | freq.: 3
- * `ruminate`           | freq.: 3
- * `sacrosanct`         | freq.: 3
- * `salutary`           | freq.: 3
- * `sap`                | freq.: 3
- * `scathing`           | freq.: 3
- * `sententious`        | freq.: 3
- * `sentient`           | freq.: 3
+ * `veracity`           (4)
+ * `verisimilitude`     (4)
+ * `aberrant`           (4)
+ * `apostate`           (4)
+ * `avarice`            (4)
+ * `cupidity`           (4)
+ * `curmudgeon`         (4)
+ * `decorous`           (4)
+ * `disabuse`           (4)
+ * `endemic`            (4)
+ * `enumerate`          (4)
+ * `ignoble`            (4)
+ * `impute`             (4)
+ * `invective`          (4)
+ * `itinerant`          (4)
+ * `maverick`           (4)
+ * `oblique`            (4)
+ * `panegyric`          (4)
+ * `philistine`         (4)
+ * `propitiate`         (4)
+ * `relegate`           (4)
+ * `rescind`            (4)
+ * `ribald`             (4)
+ * `sinecure`           (4)
+ * `surfeit`            (4)
+ * `tawdry`             (4)
+ * `tyro`               (4)
+ * `abeyance`           (3)
+ * `abhor`              (3)
+ * `abrasive`           (3)
+ * `abrogate`           (3)
+ * `abscission`         (3)
+ * `abstruse`           (3)
+ * `abysmal`            (3)
+ * `accolade`           (3)
+ * `acidulous`          (3)
+ * `alleviate`          (3)
+ * `anachronism`        (3)
+ * `anathema`           (3)
+ * `animosity`          (3)
+ * `antedate`           (3)
+ * `antithesis`         (3)
+ * `apotheosis`         (3)
+ * `appease`            (3)
+ * `apposite`           (3)
+ * `articulate`         (3)
+ * `astute`             (3)
+ * `avaricious`         (3)
+ * `aver`               (3)
+ * `aversion`           (3)
+ * `baleful`            (3)
+ * `bellicose`          (3)
+ * `bonhomie`           (3)
+ * `boor`               (3)
+ * `brazen`             (3)
+ * `bromide`            (3)
+ * `cajole`             (3)
+ * `capitulate`         (3)
+ * `celerity`           (3)
+ * `cerebral`           (3)
+ * `chagrin`            (3)
+ * `chary`              (3)
+ * `choleric`           (3)
+ * `clandestine`        (3)
+ * `cloying`            (3)
+ * `concomitant`        (3)
+ * `conflagration`      (3)
+ * `conflate`           (3)
+ * `conundrum`          (3)
+ * `credulous`          (3)
+ * `despot`             (3)
+ * `dispassionate`      (3)
+ * `dispatch`           (3)
+ * `dither`             (3)
+ * `diurnal`            (3)
+ * `doctrinaire`        (3)
+ * `dolorous`           (3)
+ * `dyspeptic`          (3)
+ * `effusive`           (3)
+ * `egalitarian`        (3)
+ * `emollient`          (3)
+ * `enigmatic`          (3)
+ * `eradicate`          (3)
+ * `ethereal`           (3)
+ * `exigent`            (3)
+ * `exorbitant`         (3)
+ * `expedient`          (3)
+ * `exponent`           (3)
+ * `extant`             (3)
+ * `extol`              (3)
+ * `fallible`           (3)
+ * `flippant`           (3)
+ * `flounder`           (3)
+ * `foible`             (3)
+ * `fracas`             (3)
+ * `frenetic`           (3)
+ * `gaffe`              (3)
+ * `gambit`             (3)
+ * `gossamer`           (3)
+ * `grandiloquent`      (3)
+ * `grouse`             (3)
+ * `hapless`            (3)
+ * `harrow`             (3)
+ * `heterodox`          (3)
+ * `heterogeneous`      (3)
+ * `homogeneous`        (3)
+ * `humdrum`            (3)
+ * `imbroglio`          (3)
+ * `imminent`           (3)
+ * `immure`             (3)
+ * `impassive`          (3)
+ * `inculcate`          (3)
+ * `incumbent`          (3)
+ * `indigenous`         (3)
+ * `indignant`          (3)
+ * `industrious`        (3)
+ * `ineluctable`        (3)
+ * `inimitable`         (3)
+ * `intrinsic`          (3)
+ * `inviolate`          (3)
+ * `jargon`             (3)
+ * `jejune`             (3)
+ * `kindle`             (3)
+ * `lax`                (3)
+ * `legerdemain`        (3)
+ * `licentious`         (3)
+ * `listless`           (3)
+ * `lumber`             (3)
+ * `maelstrom`          (3)
+ * `magisterial`        (3)
+ * `makeshift`          (3)
+ * `malfeasance`        (3)
+ * `mawkish`            (3)
+ * `mellifluous`        (3)
+ * `miserly`            (3)
+ * `modicum`            (3)
+ * `modish`             (3)
+ * `monastic`           (3)
+ * `mores`              (3)
+ * `moribund`           (3)
+ * `myriad`             (3)
+ * `nebulous`           (3)
+ * `nettle`             (3)
+ * `nonchalant`         (3)
+ * `novel`              (3)
+ * `odious`             (3)
+ * `opine`              (3)
+ * `ornate`             (3)
+ * `orthodox`           (3)
+ * `outstrip`           (3)
+ * `overweening`        (3)
+ * `palatial`           (3)
+ * `pallid`             (3)
+ * `paradigm`           (3)
+ * `parley`             (3)
+ * `parochial`          (3)
+ * `parody`             (3)
+ * `pastiche`           (3)
+ * `penitent`           (3)
+ * `penurious`          (3)
+ * `penury`             (3)
+ * `peregrinate`        (3)
+ * `peremptory`         (3)
+ * `perspicacious`      (3)
+ * `picayune`           (3)
+ * `pillory`            (3)
+ * `piquant`            (3)
+ * `plaintive`          (3)
+ * `polemic`            (3)
+ * `politic`            (3)
+ * `ponderous`          (3)
+ * `precocious`         (3)
+ * `precursor`          (3)
+ * `prescient`          (3)
+ * `profound`           (3)
+ * `prolific`           (3)
+ * `prophetic`          (3)
+ * `propitious`         (3)
+ * `providential`       (3)
+ * `pungent`            (3)
+ * `quail`              (3)
+ * `quandary`           (3)
+ * `rancorous`          (3)
+ * `rapacious`          (3)
+ * `rarefied`           (3)
+ * `raucous`            (3)
+ * `recant`             (3)
+ * `recrudescent`       (3)
+ * `refulgent`          (3)
+ * `relish`             (3)
+ * `remiss`             (3)
+ * `respite`            (3)
+ * `robust`             (3)
+ * `ruminate`           (3)
+ * `sacrosanct`         (3)
+ * `salutary`           (3)
+ * `sap`                (3)
+ * `scathing`           (3)
+ * `sententious`        (3)
+ * `sentient`           (3)
 --------------------------------------------------------------------
-## Day 4
+## Day 4 [word] ([frequency])
 --------------------------------------------------------------------
- * `shard`              | freq.: 3
- * `skittish`           | freq.: 3
- * `somnolent`          | freq.: 3
- * `sophistry`          | freq.: 3
- * `sordid`             | freq.: 3
- * `splenetic`          | freq.: 3
- * `squelch`            | freq.: 3
- * `stalwart`           | freq.: 3
- * `staunch`            | freq.: 3
- * `stringent`          | freq.: 3
- * `stultify`           | freq.: 3
- * `subjective`         | freq.: 3
- * `sublime`            | freq.: 3
- * `subversive`         | freq.: 3
- * `synoptic`           | freq.: 3
- * `temerity`           | freq.: 3
- * `temperance`         | freq.: 3
- * `tempestuous`        | freq.: 3
- * `tenuous`            | freq.: 3
- * `torpid`             | freq.: 3
- * `tranquil`           | freq.: 3
- * `transgression`      | freq.: 3
- * `trifling`           | freq.: 3
- * `unconscionable`     | freq.: 3
- * `untoward`           | freq.: 3
- * `vacuous`            | freq.: 3
- * `variegated`         | freq.: 3
- * `venal`              | freq.: 3
- * `vigilant`           | freq.: 3
- * `vilify`             | freq.: 3
- * `viscous`            | freq.: 3
- * `voracious`          | freq.: 3
- * `wax`                | freq.: 3
- * `welter`             | freq.: 3
- * `wily`               | freq.: 3
- * `winsome`            | freq.: 3
- * `ambivalent`         | freq.: 3
- * `amorphous`          | freq.: 3
- * `anachronistic`      | freq.: 3
- * `analogous`          | freq.: 3
- * `anomalous`          | freq.: 3
- * `ascertain`          | freq.: 3
- * `ascribe`            | freq.: 3
- * `belligerent`        | freq.: 3
- * `beneficent`         | freq.: 3
- * `candid`             | freq.: 3
- * `circumscribe`       | freq.: 3
- * `complacent`         | freq.: 3
- * `complementary`      | freq.: 3
- * `conciliatory`       | freq.: 3
- * `condone`            | freq.: 3
- * `construe`           | freq.: 3
- * `countenance`        | freq.: 3
- * `deference`          | freq.: 3
- * `diffuse`            | freq.: 3
- * `disinterested`      | freq.: 3
- * `distill`            | freq.: 3
- * `edify`              | freq.: 3
- * `equitable`          | freq.: 3
- * `erratic`            | freq.: 3
- * `fallacious`         | freq.: 3
- * `fervid`             | freq.: 3
- * `flout`              | freq.: 3
- * `frivolous`          | freq.: 3
- * `futile`             | freq.: 3
- * `iconoclastic`       | freq.: 3
- * `impede`             | freq.: 3
- * `incongruous`        | freq.: 3
- * `inveterate`         | freq.: 3
- * `lionize`            | freq.: 3
- * `manifest`           | freq.: 3
- * `obscure`            | freq.: 3
- * `pertinent`          | freq.: 3
- * `pliant`             | freq.: 3
- * `poignant`           | freq.: 3
- * `polemical`          | freq.: 3
- * `qualm`              | freq.: 3
- * `renege`             | freq.: 3
- * `sanctimonious`      | freq.: 3
- * `slight`             | freq.: 3
- * `spartan`            | freq.: 3
- * `stoic`              | freq.: 3
- * `subtle`             | freq.: 3
- * `tact`               | freq.: 3
- * `tangential`         | freq.: 3
- * `torpor`             | freq.: 3
- * `tout`               | freq.: 3
- * `transient`          | freq.: 3
- * `unprecedented`      | freq.: 3
- * `unseemly`           | freq.: 3
- * `veritable`          | freq.: 3
- * `viable`             | freq.: 3
- * `ambiguous`          | freq.: 3
- * `amiable`            | freq.: 3
- * `appropriate`        | freq.: 3
- * `avid`               | freq.: 3
- * `catalyst`           | freq.: 3
- * `catholic`           | freq.: 3
- * `consummate`         | freq.: 3
- * `delineate`          | freq.: 3
- * `dissolution`        | freq.: 3
- * `exegesis`           | freq.: 3
- * `flag`               | freq.: 3
- * `goad`               | freq.: 3
- * `hoary`              | freq.: 3
- * `ignominious`        | freq.: 3
- * `impervious`         | freq.: 3
- * `inure`              | freq.: 3
- * `jocular`            | freq.: 3
- * `martial`            | freq.: 3
- * `martinet`           | freq.: 3
- * `maxim`              | freq.: 3
- * `obtuse`             | freq.: 3
- * `ossify`             | freq.: 3
- * `pejorative`         | freq.: 3
- * `peruse`             | freq.: 3
- * `plucky`             | freq.: 3
- * `proscribe`          | freq.: 3
- * `pundit`             | freq.: 3
- * `redoubtable`        | freq.: 3
- * `stymie`             | freq.: 3
- * `supercilious`       | freq.: 3
- * `travesty`           | freq.: 3
- * `trite`              | freq.: 3
- * `vicissitude`        | freq.: 3
- * `vituperate`         | freq.: 3
- * `wanton`             | freq.: 3
- * `augury`             | freq.: 3
- * `bent`               | freq.: 3
- * `burnish`            | freq.: 3
- * `canonical`          | freq.: 3
- * `coterie`            | freq.: 3
- * `cynical`            | freq.: 3
- * `daunt`              | freq.: 3
- * `demagogue`          | freq.: 3
- * `dirge`              | freq.: 3
- * `elegy`              | freq.: 3
- * `eloquent`           | freq.: 3
- * `epicure`            | freq.: 3
- * `equanimity`         | freq.: 3
- * `eulogy`             | freq.: 3
- * `euphony`            | freq.: 3
- * `fallow`             | freq.: 3
- * `ford`               | freq.: 3
- * `fulminate`          | freq.: 3
- * `gambol`             | freq.: 3
- * `garner`             | freq.: 3
- * `guile`              | freq.: 3
- * `inherent`           | freq.: 3
- * `iniquity`           | freq.: 3
- * `luminous`           | freq.: 3
- * `militate`           | freq.: 3
- * `multifarious`       | freq.: 3
- * `neologism`          | freq.: 3
- * `nominal`            | freq.: 3
- * `paradox`            | freq.: 3
- * `parry`              | freq.: 3
- * `peccadillo`         | freq.: 3
- * `plethora`           | freq.: 3
- * `rhetoric`           | freq.: 3
- * `stentorian`         | freq.: 3
- * `tacit`              | freq.: 3
- * `toady`              | freq.: 3
- * `usury`              | freq.: 3
- * `verdant`            | freq.: 3
- * `abase`              | freq.: 2
- * `aberration`         | freq.: 2
- * `abject`             | freq.: 2
- * `abound`             | freq.: 2
- * `abridge`            | freq.: 2
- * `abstemious`         | freq.: 2
- * `accede`             | freq.: 2
- * `acquisitive`        | freq.: 2
- * `acrimonious`        | freq.: 2
- * `adamant`            | freq.: 2
- * `adhere`             | freq.: 2
- * `adulation`          | freq.: 2
- * `aghast`             | freq.: 2
- * `allusion`           | freq.: 2
- * `altruistic`         | freq.: 2
- * `annul`              | freq.: 2
- * `aplomb`             | freq.: 2
- * `apostle`            | freq.: 2
- * `apothegm`           | freq.: 2
- * `apropos`            | freq.: 2
- * `arch`               | freq.: 2
- * `artifice`           | freq.: 2
- * `ascendancy`         | freq.: 2
- * `aspersion`          | freq.: 2
- * `autonomous`         | freq.: 2
- * `avuncular`          | freq.: 2
- * `badger`             | freq.: 2
- * `baying`             | freq.: 2
- * `beatific`           | freq.: 2
- * `beatify`            | freq.: 2
- * `bedlam`             | freq.: 2
- * `belittle`           | freq.: 2
- * `bemoan`             | freq.: 2
- * `bereft`             | freq.: 2
- * `bilious`            | freq.: 2
+ * `shard`              (3)
+ * `skittish`           (3)
+ * `somnolent`          (3)
+ * `sophistry`          (3)
+ * `sordid`             (3)
+ * `splenetic`          (3)
+ * `squelch`            (3)
+ * `stalwart`           (3)
+ * `staunch`            (3)
+ * `stringent`          (3)
+ * `stultify`           (3)
+ * `subjective`         (3)
+ * `sublime`            (3)
+ * `subversive`         (3)
+ * `synoptic`           (3)
+ * `temerity`           (3)
+ * `temperance`         (3)
+ * `tempestuous`        (3)
+ * `tenuous`            (3)
+ * `torpid`             (3)
+ * `tranquil`           (3)
+ * `transgression`      (3)
+ * `trifling`           (3)
+ * `unconscionable`     (3)
+ * `untoward`           (3)
+ * `vacuous`            (3)
+ * `variegated`         (3)
+ * `venal`              (3)
+ * `vigilant`           (3)
+ * `vilify`             (3)
+ * `viscous`            (3)
+ * `voracious`          (3)
+ * `wax`                (3)
+ * `welter`             (3)
+ * `wily`               (3)
+ * `winsome`            (3)
+ * `ambivalent`         (3)
+ * `amorphous`          (3)
+ * `anachronistic`      (3)
+ * `analogous`          (3)
+ * `anomalous`          (3)
+ * `ascertain`          (3)
+ * `ascribe`            (3)
+ * `belligerent`        (3)
+ * `beneficent`         (3)
+ * `candid`             (3)
+ * `circumscribe`       (3)
+ * `complacent`         (3)
+ * `complementary`      (3)
+ * `conciliatory`       (3)
+ * `condone`            (3)
+ * `construe`           (3)
+ * `countenance`        (3)
+ * `deference`          (3)
+ * `diffuse`            (3)
+ * `disinterested`      (3)
+ * `distill`            (3)
+ * `edify`              (3)
+ * `equitable`          (3)
+ * `erratic`            (3)
+ * `fallacious`         (3)
+ * `fervid`             (3)
+ * `flout`              (3)
+ * `frivolous`          (3)
+ * `futile`             (3)
+ * `iconoclastic`       (3)
+ * `impede`             (3)
+ * `incongruous`        (3)
+ * `inveterate`         (3)
+ * `lionize`            (3)
+ * `manifest`           (3)
+ * `obscure`            (3)
+ * `pertinent`          (3)
+ * `pliant`             (3)
+ * `poignant`           (3)
+ * `polemical`          (3)
+ * `qualm`              (3)
+ * `renege`             (3)
+ * `sanctimonious`      (3)
+ * `slight`             (3)
+ * `spartan`            (3)
+ * `stoic`              (3)
+ * `subtle`             (3)
+ * `tact`               (3)
+ * `tangential`         (3)
+ * `torpor`             (3)
+ * `tout`               (3)
+ * `transient`          (3)
+ * `unprecedented`      (3)
+ * `unseemly`           (3)
+ * `veritable`          (3)
+ * `viable`             (3)
+ * `ambiguous`          (3)
+ * `amiable`            (3)
+ * `appropriate`        (3)
+ * `avid`               (3)
+ * `catalyst`           (3)
+ * `catholic`           (3)
+ * `consummate`         (3)
+ * `delineate`          (3)
+ * `dissolution`        (3)
+ * `exegesis`           (3)
+ * `flag`               (3)
+ * `goad`               (3)
+ * `hoary`              (3)
+ * `ignominious`        (3)
+ * `impervious`         (3)
+ * `inure`              (3)
+ * `jocular`            (3)
+ * `martial`            (3)
+ * `martinet`           (3)
+ * `maxim`              (3)
+ * `obtuse`             (3)
+ * `ossify`             (3)
+ * `pejorative`         (3)
+ * `peruse`             (3)
+ * `plucky`             (3)
+ * `proscribe`          (3)
+ * `pundit`             (3)
+ * `redoubtable`        (3)
+ * `stymie`             (3)
+ * `supercilious`       (3)
+ * `travesty`           (3)
+ * `trite`              (3)
+ * `vicissitude`        (3)
+ * `vituperate`         (3)
+ * `wanton`             (3)
+ * `augury`             (3)
+ * `bent`               (3)
+ * `burnish`            (3)
+ * `canonical`          (3)
+ * `coterie`            (3)
+ * `cynical`            (3)
+ * `daunt`              (3)
+ * `demagogue`          (3)
+ * `dirge`              (3)
+ * `elegy`              (3)
+ * `eloquent`           (3)
+ * `epicure`            (3)
+ * `equanimity`         (3)
+ * `eulogy`             (3)
+ * `euphony`            (3)
+ * `fallow`             (3)
+ * `ford`               (3)
+ * `fulminate`          (3)
+ * `gambol`             (3)
+ * `garner`             (3)
+ * `guile`              (3)
+ * `inherent`           (3)
+ * `iniquity`           (3)
+ * `luminous`           (3)
+ * `militate`           (3)
+ * `multifarious`       (3)
+ * `neologism`          (3)
+ * `nominal`            (3)
+ * `paradox`            (3)
+ * `parry`              (3)
+ * `peccadillo`         (3)
+ * `plethora`           (3)
+ * `rhetoric`           (3)
+ * `stentorian`         (3)
+ * `tacit`              (3)
+ * `toady`              (3)
+ * `usury`              (3)
+ * `verdant`            (3)
+ * `abase`              (2)
+ * `aberration`         (2)
+ * `abject`             (2)
+ * `abound`             (2)
+ * `abridge`            (2)
+ * `abstemious`         (2)
+ * `accede`             (2)
+ * `acquisitive`        (2)
+ * `acrimonious`        (2)
+ * `adamant`            (2)
+ * `adhere`             (2)
+ * `adulation`          (2)
+ * `aghast`             (2)
+ * `allusion`           (2)
+ * `altruistic`         (2)
+ * `annul`              (2)
+ * `aplomb`             (2)
+ * `apostle`            (2)
+ * `apothegm`           (2)
+ * `apropos`            (2)
+ * `arch`               (2)
+ * `artifice`           (2)
+ * `ascendancy`         (2)
+ * `aspersion`          (2)
+ * `autonomous`         (2)
+ * `avuncular`          (2)
+ * `badger`             (2)
+ * `baying`             (2)
+ * `beatific`           (2)
+ * `beatify`            (2)
+ * `bedlam`             (2)
+ * `belittle`           (2)
+ * `bemoan`             (2)
+ * `bereft`             (2)
+ * `bilious`            (2)
 --------------------------------------------------------------------
-## Day 5
+## Day 5 [word] ([frequency])
 --------------------------------------------------------------------
- * `boon`               | freq.: 2
- * `bowdlerize`         | freq.: 2
- * `brevity`            | freq.: 2
- * `buoyant`            | freq.: 2
- * `bygone`             | freq.: 2
- * `cadge`              | freq.: 2
- * `callous`            | freq.: 2
- * `callow`             | freq.: 2
- * `canny`              | freq.: 2
- * `canonize`           | freq.: 2
- * `captious`           | freq.: 2
- * `champion`           | freq.: 2
- * `chronological`      | freq.: 2
- * `circumscribed`      | freq.: 2
- * `clemency`           | freq.: 2
- * `coeval`             | freq.: 2
- * `cognizant`          | freq.: 2
- * `cohesive`           | freq.: 2
- * `coin`               | freq.: 2
- * `complicit`          | freq.: 2
- * `conniving`          | freq.: 2
- * `consternation`      | freq.: 2
- * `conversant`         | freq.: 2
- * `cordial`            | freq.: 2
- * `credence`           | freq.: 2
- * `depredate`          | freq.: 2
- * `descry`             | freq.: 2
- * `desecrate`          | freq.: 2
- * `desiccated`         | freq.: 2
- * `desuetude`          | freq.: 2
- * `devolve`            | freq.: 2
- * `diabolical`         | freq.: 2
- * `digression`         | freq.: 2
- * `discriminate`       | freq.: 2
- * `divergent`          | freq.: 2
- * `docile`             | freq.: 2
- * `doggerel`           | freq.: 2
- * `dormant`            | freq.: 2
- * `draconian`          | freq.: 2
- * `duplicitous`        | freq.: 2
- * `embroiled`          | freq.: 2
- * `embryonic`          | freq.: 2
- * `enmity`             | freq.: 2
- * `ennui`              | freq.: 2
- * `entitled`           | freq.: 2
- * `epitome`            | freq.: 2
- * `erstwhile`          | freq.: 2
- * `estranged`          | freq.: 2
- * `exact`              | freq.: 2
- * `expatiate`          | freq.: 2
- * `expatriate`         | freq.: 2
- * `expunge`            | freq.: 2
- * `extenuating`        | freq.: 2
- * `extirpate`          | freq.: 2
- * `fabricate`          | freq.: 2
- * `feign`              | freq.: 2
- * `felicity`           | freq.: 2
- * `ferret`             | freq.: 2
- * `fervor`             | freq.: 2
- * `finicky`            | freq.: 2
- * `fleeting`           | freq.: 2
- * `flotsam`            | freq.: 2
- * `flummoxed`          | freq.: 2
- * `forage`             | freq.: 2
- * `forbearance`        | freq.: 2
- * `formidable`         | freq.: 2
- * `froward`            | freq.: 2
- * `fulsome`            | freq.: 2
- * `glacial`            | freq.: 2
- * `glut`               | freq.: 2
- * `goosebumps`         | freq.: 2
- * `grandstand`         | freq.: 2
- * `grating`            | freq.: 2
- * `gravitas`           | freq.: 2
- * `gumption`           | freq.: 2
- * `harbinger`          | freq.: 2
- * `harried`            | freq.: 2
- * `haughty`            | freq.: 2
- * `hector`             | freq.: 2
- * `heyday`             | freq.: 2
- * `hirsute`            | freq.: 2
- * `idyllic`            | freq.: 2
- * `impeccable`         | freq.: 2
- * `impenetrable`       | freq.: 2
- * `implication`        | freq.: 2
- * `importune`          | freq.: 2
- * `impregnable`        | freq.: 2
- * `imprimatur`         | freq.: 2
- * `incandescent`       | freq.: 2
- * `incisive`           | freq.: 2
- * `incorporate`        | freq.: 2
- * `indomitable`        | freq.: 2
- * `ingenious`          | freq.: 2
- * `ingrained`          | freq.: 2
- * `inordinate`         | freq.: 2
- * `insinuate`          | freq.: 2
- * `insolence`          | freq.: 2
- * `inveigh`            | freq.: 2
- * `irk`                | freq.: 2
- * `jocose`             | freq.: 2
- * `juggernaut`         | freq.: 2
- * `kowtow`             | freq.: 2
- * `luminary`           | freq.: 2
- * `lurid`              | freq.: 2
- * `macabre`            | freq.: 2
- * `macerate`           | freq.: 2
- * `machination`        | freq.: 2
- * `malign`             | freq.: 2
- * `manacle`            | freq.: 2
- * `marginal`           | freq.: 2
- * `mercenary`          | freq.: 2
- * `mettle`             | freq.: 2
- * `milieu`             | freq.: 2
- * `minatory`           | freq.: 2
- * `misnomer`           | freq.: 2
- * `morass`             | freq.: 2
- * `multifaceted`       | freq.: 2
- * `nontrivial`         | freq.: 2
- * `normative`          | freq.: 2
- * `nostrum`            | freq.: 2
- * `nugatory`           | freq.: 2
- * `obeisance`          | freq.: 2
- * `objective`          | freq.: 2
- * `obloquy`            | freq.: 2
- * `offset`             | freq.: 2
- * `opulent`            | freq.: 2
- * `oscillate`          | freq.: 2
- * `ossified`           | freq.: 2
- * `overshadow`         | freq.: 2
- * `painstaking`        | freq.: 2
- * `palatable`          | freq.: 2
- * `palimpsest`         | freq.: 2
- * `peevish`            | freq.: 2
- * `pertinacious`       | freq.: 2
- * `perturb`            | freq.: 2
- * `picaresque`         | freq.: 2
- * `pinnacle`           | freq.: 2
- * `pittance`           | freq.: 2
- * `platonic`           | freq.: 2
- * `plausible`          | freq.: 2
- * `plebeian`           | freq.: 2
- * `plutocracy`         | freq.: 2
- * `polarize`           | freq.: 2
- * `portentous`         | freq.: 2
- * `poseur`             | freq.: 2
- * `posthumous`         | freq.: 2
- * `promulgate`         | freq.: 2
- * `pronounced`         | freq.: 2
- * `protean`            | freq.: 2
- * `prowess`            | freq.: 2
- * `quintessential`     | freq.: 2
- * `raiment`            | freq.: 2
- * `rash`               | freq.: 2
- * `raze`               | freq.: 2
- * `reap`               | freq.: 2
- * `rectitude`          | freq.: 2
- * `relinquish`         | freq.: 2
- * `reprehensible`      | freq.: 2
- * `reprove`            | freq.: 2
- * `repugnant`          | freq.: 2
- * `resolute`           | freq.: 2
- * `restitution`        | freq.: 2
- * `retiring`           | freq.: 2
- * `revamp`             | freq.: 2
- * `rhapsodize`         | freq.: 2
- * `rift`               | freq.: 2
- * `row`                | freq.: 2
- * `salacious`          | freq.: 2
- * `sangfroid`          | freq.: 2
- * `schadenfreude`      | freq.: 2
- * `scurrilous`         | freq.: 2
- * `secular`            | freq.: 2
- * `semblance`          | freq.: 2
- * `seminal`            | freq.: 2
- * `serendipity`        | freq.: 2
- * `sham`               | freq.: 2
- * `simper`             | freq.: 2
- * `simulacrum`         | freq.: 2
- * `sinuous`            | freq.: 2
- * `slander`            | freq.: 2
- * `slothful`           | freq.: 2
- * `solidarity`         | freq.: 2
- * `sonorous`           | freq.: 2
- * `sophomoric`         | freq.: 2
- * `sparing`            | freq.: 2
- * `sparse`             | freq.: 2
- * `stanch`             | freq.: 2
- * `steadfast`          | freq.: 2
- * `stratagem`          | freq.: 2
- * `stricture`          | freq.: 2
- * `strident`           | freq.: 2
- * `substantiate`       | freq.: 2
- * `subvert`            | freq.: 2
- * `succor`             | freq.: 2
- * `sullen`             | freq.: 2
- * `superficial`        | freq.: 2
- * `surmise`            | freq.: 2
- * `synergy`            | freq.: 2
- * `syntax`             | freq.: 2
- * `temporal`           | freq.: 2
+ * `boon`               (2)
+ * `bowdlerize`         (2)
+ * `brevity`            (2)
+ * `buoyant`            (2)
+ * `bygone`             (2)
+ * `cadge`              (2)
+ * `callous`            (2)
+ * `callow`             (2)
+ * `canny`              (2)
+ * `canonize`           (2)
+ * `captious`           (2)
+ * `champion`           (2)
+ * `chronological`      (2)
+ * `circumscribed`      (2)
+ * `clemency`           (2)
+ * `coeval`             (2)
+ * `cognizant`          (2)
+ * `cohesive`           (2)
+ * `coin`               (2)
+ * `complicit`          (2)
+ * `conniving`          (2)
+ * `consternation`      (2)
+ * `conversant`         (2)
+ * `cordial`            (2)
+ * `credence`           (2)
+ * `depredate`          (2)
+ * `descry`             (2)
+ * `desecrate`          (2)
+ * `desiccated`         (2)
+ * `desuetude`          (2)
+ * `devolve`            (2)
+ * `diabolical`         (2)
+ * `digression`         (2)
+ * `discriminate`       (2)
+ * `divergent`          (2)
+ * `docile`             (2)
+ * `doggerel`           (2)
+ * `dormant`            (2)
+ * `draconian`          (2)
+ * `duplicitous`        (2)
+ * `embroiled`          (2)
+ * `embryonic`          (2)
+ * `enmity`             (2)
+ * `ennui`              (2)
+ * `entitled`           (2)
+ * `epitome`            (2)
+ * `erstwhile`          (2)
+ * `estranged`          (2)
+ * `exact`              (2)
+ * `expatiate`          (2)
+ * `expatriate`         (2)
+ * `expunge`            (2)
+ * `extenuating`        (2)
+ * `extirpate`          (2)
+ * `fabricate`          (2)
+ * `feign`              (2)
+ * `felicity`           (2)
+ * `ferret`             (2)
+ * `fervor`             (2)
+ * `finicky`            (2)
+ * `fleeting`           (2)
+ * `flotsam`            (2)
+ * `flummoxed`          (2)
+ * `forage`             (2)
+ * `forbearance`        (2)
+ * `formidable`         (2)
+ * `froward`            (2)
+ * `fulsome`            (2)
+ * `glacial`            (2)
+ * `glut`               (2)
+ * `goosebumps`         (2)
+ * `grandstand`         (2)
+ * `grating`            (2)
+ * `gravitas`           (2)
+ * `gumption`           (2)
+ * `harbinger`          (2)
+ * `harried`            (2)
+ * `haughty`            (2)
+ * `hector`             (2)
+ * `heyday`             (2)
+ * `hirsute`            (2)
+ * `idyllic`            (2)
+ * `impeccable`         (2)
+ * `impenetrable`       (2)
+ * `implication`        (2)
+ * `importune`          (2)
+ * `impregnable`        (2)
+ * `imprimatur`         (2)
+ * `incandescent`       (2)
+ * `incisive`           (2)
+ * `incorporate`        (2)
+ * `indomitable`        (2)
+ * `ingenious`          (2)
+ * `ingrained`          (2)
+ * `inordinate`         (2)
+ * `insinuate`          (2)
+ * `insolence`          (2)
+ * `inveigh`            (2)
+ * `irk`                (2)
+ * `jocose`             (2)
+ * `juggernaut`         (2)
+ * `kowtow`             (2)
+ * `luminary`           (2)
+ * `lurid`              (2)
+ * `macabre`            (2)
+ * `macerate`           (2)
+ * `machination`        (2)
+ * `malign`             (2)
+ * `manacle`            (2)
+ * `marginal`           (2)
+ * `mercenary`          (2)
+ * `mettle`             (2)
+ * `milieu`             (2)
+ * `minatory`           (2)
+ * `misnomer`           (2)
+ * `morass`             (2)
+ * `multifaceted`       (2)
+ * `nontrivial`         (2)
+ * `normative`          (2)
+ * `nostrum`            (2)
+ * `nugatory`           (2)
+ * `obeisance`          (2)
+ * `objective`          (2)
+ * `obloquy`            (2)
+ * `offset`             (2)
+ * `opulent`            (2)
+ * `oscillate`          (2)
+ * `ossified`           (2)
+ * `overshadow`         (2)
+ * `painstaking`        (2)
+ * `palatable`          (2)
+ * `palimpsest`         (2)
+ * `peevish`            (2)
+ * `pertinacious`       (2)
+ * `perturb`            (2)
+ * `picaresque`         (2)
+ * `pinnacle`           (2)
+ * `pittance`           (2)
+ * `platonic`           (2)
+ * `plausible`          (2)
+ * `plebeian`           (2)
+ * `plutocracy`         (2)
+ * `polarize`           (2)
+ * `portentous`         (2)
+ * `poseur`             (2)
+ * `posthumous`         (2)
+ * `promulgate`         (2)
+ * `pronounced`         (2)
+ * `protean`            (2)
+ * `prowess`            (2)
+ * `quintessential`     (2)
+ * `raiment`            (2)
+ * `rash`               (2)
+ * `raze`               (2)
+ * `reap`               (2)
+ * `rectitude`          (2)
+ * `relinquish`         (2)
+ * `reprehensible`      (2)
+ * `reprove`            (2)
+ * `repugnant`          (2)
+ * `resolute`           (2)
+ * `restitution`        (2)
+ * `retiring`           (2)
+ * `revamp`             (2)
+ * `rhapsodize`         (2)
+ * `rift`               (2)
+ * `row`                (2)
+ * `salacious`          (2)
+ * `sangfroid`          (2)
+ * `schadenfreude`      (2)
+ * `scurrilous`         (2)
+ * `secular`            (2)
+ * `semblance`          (2)
+ * `seminal`            (2)
+ * `serendipity`        (2)
+ * `sham`               (2)
+ * `simper`             (2)
+ * `simulacrum`         (2)
+ * `sinuous`            (2)
+ * `slander`            (2)
+ * `slothful`           (2)
+ * `solidarity`         (2)
+ * `sonorous`           (2)
+ * `sophomoric`         (2)
+ * `sparing`            (2)
+ * `sparse`             (2)
+ * `stanch`             (2)
+ * `steadfast`          (2)
+ * `stratagem`          (2)
+ * `stricture`          (2)
+ * `strident`           (2)
+ * `substantiate`       (2)
+ * `subvert`            (2)
+ * `succor`             (2)
+ * `sullen`             (2)
+ * `superficial`        (2)
+ * `surmise`            (2)
+ * `synergy`            (2)
+ * `syntax`             (2)
+ * `temporal`           (2)
 --------------------------------------------------------------------
-## Day 6
+## Day 6 [word] ([frequency])
 --------------------------------------------------------------------
- * `tenable`            | freq.: 2
- * `tepid`              | freq.: 2
- * `treacly`            | freq.: 2
- * `trepidation`        | freq.: 2
- * `truncated`          | freq.: 2
- * `tumid`              | freq.: 2
- * `tumultuous`         | freq.: 2
- * `turbid`             | freq.: 2
- * `unctuous`           | freq.: 2
- * `understated`        | freq.: 2
- * `undulate`           | freq.: 2
- * `unpropitious`       | freq.: 2
- * `unruly`             | freq.: 2
- * `utilitarian`        | freq.: 2
- * `vainglorious`       | freq.: 2
- * `vapid`              | freq.: 2
- * `vaunted`            | freq.: 2
- * `vehement`           | freq.: 2
- * `veracious`          | freq.: 2
- * `verisimilar`        | freq.: 2
- * `vernacular`         | freq.: 2
- * `vex`                | freq.: 2
- * `vicarious`          | freq.: 2
- * `vindicate`          | freq.: 2
- * `vindictive`         | freq.: 2
- * `virtuoso`           | freq.: 2
- * `vivacious`          | freq.: 2
- * `waffle`             | freq.: 2
- * `wan`                | freq.: 2
- * `wanting`            | freq.: 2
- * `whet`               | freq.: 2
- * `winnow`             | freq.: 2
- * `wistful`            | freq.: 2
- * `zephyr`             | freq.: 2
- * `abreast`            | freq.: 2
- * `acquiesce`          | freq.: 2
- * `alienate`           | freq.: 2
- * `aloof`              | freq.: 2
- * `anoint`             | freq.: 2
- * `astringent`         | freq.: 2
- * `banish`             | freq.: 2
- * `benevolent`         | freq.: 2
- * `betray`             | freq.: 2
- * `bogus`              | freq.: 2
- * `boisterous`         | freq.: 2
- * `boorish`            | freq.: 2
- * `bridle`             | freq.: 2
- * `chastise`           | freq.: 2
- * `chivalrous`         | freq.: 2
- * `convivial`          | freq.: 2
- * `covet`              | freq.: 2
- * `crestfallen`        | freq.: 2
- * `cunning`            | freq.: 2
- * `cursory`            | freq.: 2
- * `decorum`            | freq.: 2
- * `decry`              | freq.: 2
- * `deflect`            | freq.: 2
- * `deliberate`         | freq.: 2
- * `denounce`           | freq.: 2
- * `diminutive`         | freq.: 2
- * `dissent`            | freq.: 2
- * `divulge`            | freq.: 2
- * `duress`             | freq.: 2
- * `eclipse`            | freq.: 2
- * `elated`             | freq.: 2
- * `entrenched`         | freq.: 2
- * `evasive`            | freq.: 2
- * `exhaustive`         | freq.: 2
- * `fanciful`           | freq.: 2
- * `feasible`           | freq.: 2
- * `felicitous`         | freq.: 2
- * `fervent`            | freq.: 2
- * `flamboyant`         | freq.: 2
- * `foolhardy`          | freq.: 2
- * `galvanize`          | freq.: 2
- * `gawky`              | freq.: 2
- * `hamper`             | freq.: 2
- * `haphazard`          | freq.: 2
- * `hyperbole`          | freq.: 2
- * `impair`             | freq.: 2
- * `impertinent`        | freq.: 2
- * `incendiary`         | freq.: 2
- * `incessant`          | freq.: 2
- * `incredulous`        | freq.: 2
- * `inform`             | freq.: 2
- * `intermittent`       | freq.: 2
- * `lull`               | freq.: 2
- * `mettlesome`         | freq.: 2
- * `modest`             | freq.: 2
- * `monotonous`         | freq.: 2
- * `nettlesome`         | freq.: 2
- * `obsolete`           | freq.: 2
- * `overt`              | freq.: 2
- * `partial`            | freq.: 2
- * `perpetuate`         | freq.: 2
- * `plastic`            | freq.: 2
- * `plodding`           | freq.: 2
- * `precipitous`        | freq.: 2
- * `preclude`           | freq.: 2
- * `pretentious`        | freq.: 2
- * `prime`              | freq.: 2
- * `reconcile`          | freq.: 2
- * `renounce`           | freq.: 2
- * `scant`              | freq.: 2
- * `sever`              | freq.: 2
- * `skirt`              | freq.: 2
- * `sound`              | freq.: 2
- * `subside`            | freq.: 2
- * `subsume`            | freq.: 2
- * `supersede`          | freq.: 2
- * `supplicate`         | freq.: 2
- * `tantamount`         | freq.: 2
- * `tarnish`            | freq.: 2
- * `temper`             | freq.: 2
- * `tentative`          | freq.: 2
- * `trivial`            | freq.: 2
- * `unscrupulous`       | freq.: 2
- * `vanquish`           | freq.: 2
- * `vexation`           | freq.: 2
- * `wary`               | freq.: 2
- * `antithetical`       | freq.: 2
- * `apex`               | freq.: 2
- * `apogee`             | freq.: 2
- * `arrant`             | freq.: 2
- * `balk`               | freq.: 2
- * `besiege`            | freq.: 2
- * `cataclysm`          | freq.: 2
- * `charlatan`          | freq.: 2
- * `chauvinism`         | freq.: 2
- * `chauvinist`         | freq.: 2
- * `chimera`            | freq.: 2
- * `complaisant`        | freq.: 2
- * `concede`            | freq.: 2
- * `conciliate`         | freq.: 2
- * `contemptuous`       | freq.: 2
- * `coterminous`        | freq.: 2
- * `culminate`          | freq.: 2
- * `debase`             | freq.: 2
- * `deign`              | freq.: 2
- * `demure`             | freq.: 2
- * `denote`             | freq.: 2
- * `denouement`         | freq.: 2
- * `derelict`           | freq.: 2
- * `destitute`          | freq.: 2
- * `dilapidated`        | freq.: 2
- * `discursive`         | freq.: 2
- * `disenfranchise`     | freq.: 2
- * `dovetail`           | freq.: 2
- * `duplicity`          | freq.: 2
- * `edifying`           | freq.: 2
- * `enormity`           | freq.: 2
- * `exasperate`         | freq.: 2
- * `excoriate`          | freq.: 2
- * `exemplar`           | freq.: 2
- * `exhort`             | freq.: 2
- * `expound`            | freq.: 2
- * `facile`             | freq.: 2
- * `fledgling`          | freq.: 2
- * `flush`              | freq.: 2
- * `graft`              | freq.: 2
- * `hedge`              | freq.: 2
- * `hoodwink`           | freq.: 2
- * `impartial`          | freq.: 2
- * `impermeable`        | freq.: 2
- * `impudent`           | freq.: 2
- * `inadvertent`        | freq.: 2
- * `incontrovertible`   | freq.: 2
- * `ingenuity`          | freq.: 2
- * `insidious`          | freq.: 2
- * `lascivious`         | freq.: 2
- * `leery`              | freq.: 2
- * `malodorous`         | freq.: 2
- * `maunder`            | freq.: 2
- * `misconstrue`        | freq.: 2
- * `miser`              | freq.: 2
- * `misogynist`         | freq.: 2
- * `perquisite`         | freq.: 2
- * `pine`               | freq.: 2
- * `preempt`            | freq.: 2
- * `prescience`         | freq.: 2
- * `presumption`        | freq.: 2
- * `primacy`            | freq.: 2
- * `proselytize`        | freq.: 2
- * `provident`          | freq.: 2
- * `qualify`            | freq.: 2
- * `raffish`            | freq.: 2
- * `rebuke`             | freq.: 2
- * `remonstrate`        | freq.: 2
- * `resolve`            | freq.: 2
- * `resurgent`          | freq.: 2
- * `rustic`             | freq.: 2
- * `sartorial`          | freq.: 2
- * `saturnine`          | freq.: 2
- * `subterfuge`         | freq.: 2
- * `tenacious`          | freq.: 2
- * `tender`             | freq.: 2
- * `treacherous`        | freq.: 2
- * `truculence`         | freq.: 2
- * `unequivocal`        | freq.: 2
- * `virago`             | freq.: 2
+ * `tenable`            (2)
+ * `tepid`              (2)
+ * `treacly`            (2)
+ * `trepidation`        (2)
+ * `truncated`          (2)
+ * `tumid`              (2)
+ * `tumultuous`         (2)
+ * `turbid`             (2)
+ * `unctuous`           (2)
+ * `understated`        (2)
+ * `undulate`           (2)
+ * `unpropitious`       (2)
+ * `unruly`             (2)
+ * `utilitarian`        (2)
+ * `vainglorious`       (2)
+ * `vapid`              (2)
+ * `vaunted`            (2)
+ * `vehement`           (2)
+ * `veracious`          (2)
+ * `verisimilar`        (2)
+ * `vernacular`         (2)
+ * `vex`                (2)
+ * `vicarious`          (2)
+ * `vindicate`          (2)
+ * `vindictive`         (2)
+ * `virtuoso`           (2)
+ * `vivacious`          (2)
+ * `waffle`             (2)
+ * `wan`                (2)
+ * `wanting`            (2)
+ * `whet`               (2)
+ * `winnow`             (2)
+ * `wistful`            (2)
+ * `zephyr`             (2)
+ * `abreast`            (2)
+ * `acquiesce`          (2)
+ * `alienate`           (2)
+ * `aloof`              (2)
+ * `anoint`             (2)
+ * `astringent`         (2)
+ * `banish`             (2)
+ * `benevolent`         (2)
+ * `betray`             (2)
+ * `bogus`              (2)
+ * `boisterous`         (2)
+ * `boorish`            (2)
+ * `bridle`             (2)
+ * `chastise`           (2)
+ * `chivalrous`         (2)
+ * `convivial`          (2)
+ * `covet`              (2)
+ * `crestfallen`        (2)
+ * `cunning`            (2)
+ * `cursory`            (2)
+ * `decorum`            (2)
+ * `decry`              (2)
+ * `deflect`            (2)
+ * `deliberate`         (2)
+ * `denounce`           (2)
+ * `diminutive`         (2)
+ * `dissent`            (2)
+ * `divulge`            (2)
+ * `duress`             (2)
+ * `eclipse`            (2)
+ * `elated`             (2)
+ * `entrenched`         (2)
+ * `evasive`            (2)
+ * `exhaustive`         (2)
+ * `fanciful`           (2)
+ * `feasible`           (2)
+ * `felicitous`         (2)
+ * `fervent`            (2)
+ * `flamboyant`         (2)
+ * `foolhardy`          (2)
+ * `galvanize`          (2)
+ * `gawky`              (2)
+ * `hamper`             (2)
+ * `haphazard`          (2)
+ * `hyperbole`          (2)
+ * `impair`             (2)
+ * `impertinent`        (2)
+ * `incendiary`         (2)
+ * `incessant`          (2)
+ * `incredulous`        (2)
+ * `inform`             (2)
+ * `intermittent`       (2)
+ * `lull`               (2)
+ * `mettlesome`         (2)
+ * `modest`             (2)
+ * `monotonous`         (2)
+ * `nettlesome`         (2)
+ * `obsolete`           (2)
+ * `overt`              (2)
+ * `partial`            (2)
+ * `perpetuate`         (2)
+ * `plastic`            (2)
+ * `plodding`           (2)
+ * `precipitous`        (2)
+ * `preclude`           (2)
+ * `pretentious`        (2)
+ * `prime`              (2)
+ * `reconcile`          (2)
+ * `renounce`           (2)
+ * `scant`              (2)
+ * `sever`              (2)
+ * `skirt`              (2)
+ * `sound`              (2)
+ * `subside`            (2)
+ * `subsume`            (2)
+ * `supersede`          (2)
+ * `supplicate`         (2)
+ * `tantamount`         (2)
+ * `tarnish`            (2)
+ * `temper`             (2)
+ * `tentative`          (2)
+ * `trivial`            (2)
+ * `unscrupulous`       (2)
+ * `vanquish`           (2)
+ * `vexation`           (2)
+ * `wary`               (2)
+ * `antithetical`       (2)
+ * `apex`               (2)
+ * `apogee`             (2)
+ * `arrant`             (2)
+ * `balk`               (2)
+ * `besiege`            (2)
+ * `cataclysm`          (2)
+ * `charlatan`          (2)
+ * `chauvinism`         (2)
+ * `chauvinist`         (2)
+ * `chimera`            (2)
+ * `complaisant`        (2)
+ * `concede`            (2)
+ * `conciliate`         (2)
+ * `contemptuous`       (2)
+ * `coterminous`        (2)
+ * `culminate`          (2)
+ * `debase`             (2)
+ * `deign`              (2)
+ * `demure`             (2)
+ * `denote`             (2)
+ * `denouement`         (2)
+ * `derelict`           (2)
+ * `destitute`          (2)
+ * `dilapidated`        (2)
+ * `discursive`         (2)
+ * `disenfranchise`     (2)
+ * `dovetail`           (2)
+ * `duplicity`          (2)
+ * `edifying`           (2)
+ * `enormity`           (2)
+ * `exasperate`         (2)
+ * `excoriate`          (2)
+ * `exemplar`           (2)
+ * `exhort`             (2)
+ * `expound`            (2)
+ * `facile`             (2)
+ * `fledgling`          (2)
+ * `flush`              (2)
+ * `graft`              (2)
+ * `hedge`              (2)
+ * `hoodwink`           (2)
+ * `impartial`          (2)
+ * `impermeable`        (2)
+ * `impudent`           (2)
+ * `inadvertent`        (2)
+ * `incontrovertible`   (2)
+ * `ingenuity`          (2)
+ * `insidious`          (2)
+ * `lascivious`         (2)
+ * `leery`              (2)
+ * `malodorous`         (2)
+ * `maunder`            (2)
+ * `misconstrue`        (2)
+ * `miser`              (2)
+ * `misogynist`         (2)
+ * `perquisite`         (2)
+ * `pine`               (2)
+ * `preempt`            (2)
+ * `prescience`         (2)
+ * `presumption`        (2)
+ * `primacy`            (2)
+ * `proselytize`        (2)
+ * `provident`          (2)
+ * `qualify`            (2)
+ * `raffish`            (2)
+ * `rebuke`             (2)
+ * `remonstrate`        (2)
+ * `resolve`            (2)
+ * `resurgent`          (2)
+ * `rustic`             (2)
+ * `sartorial`          (2)
+ * `saturnine`          (2)
+ * `subterfuge`         (2)
+ * `tenacious`          (2)
+ * `tender`             (2)
+ * `treacherous`        (2)
+ * `truculence`         (2)
+ * `unequivocal`        (2)
+ * `virago`             (2)
 --------------------------------------------------------------------
-## Day 7
+## Day 7 [word] ([frequency])
 --------------------------------------------------------------------
- * `vitriol`            | freq.: 2
- * `volubility`         | freq.: 2
- * `abdicate`           | freq.: 2
- * `abscond`            | freq.: 2
- * `adumbrate`          | freq.: 2
- * `aerie`              | freq.: 2
- * `aggregate`          | freq.: 2
- * `anarchy`            | freq.: 2
- * `apprise`            | freq.: 2
- * `ardent`             | freq.: 2
- * `axiom`              | freq.: 2
- * `bane`               | freq.: 2
- * `bevy`               | freq.: 2
- * `bifurcate`          | freq.: 2
- * `bilk`               | freq.: 2
- * `blight`             | freq.: 2
- * `coda`               | freq.: 2
- * `coffer`             | freq.: 2
- * `compliant`          | freq.: 2
- * `converge`           | freq.: 2
- * `cosset`             | freq.: 2
- * `crescendo`          | freq.: 2
- * `declivity`          | freq.: 2
- * `dictum`             | freq.: 2
- * `digress`            | freq.: 2
- * `din`                | freq.: 2
- * `discordant`         | freq.: 2
- * `dissonance`         | freq.: 2
- * `distaff`            | freq.: 2
- * `divest`             | freq.: 2
- * `divine`             | freq.: 2
- * `dogma`              | freq.: 2
- * `effigy`             | freq.: 2
- * `egress`             | freq.: 2
- * `enigma`             | freq.: 2
- * `ethos`              | freq.: 2
- * `explicit`           | freq.: 2
- * `facilitate`         | freq.: 2
- * `fidelity`           | freq.: 2
- * `glower`             | freq.: 2
- * `gradation`          | freq.: 2
- * `grievous`           | freq.: 2
- * `hedonist`           | freq.: 2
- * `husband`            | freq.: 2
- * `imbue`              | freq.: 2
- * `impasse`            | freq.: 2
- * `impious`            | freq.: 2
- * `imprecation`        | freq.: 2
- * `incarnadine`        | freq.: 2
- * `indifferent`        | freq.: 2
- * `inert`              | freq.: 2
- * `ingrate`            | freq.: 2
- * `insensible`         | freq.: 2
- * `insurrection`       | freq.: 2
- * `inter`              | freq.: 2
- * `interregnum`        | freq.: 2
- * `intractable`        | freq.: 2
- * `investiture`        | freq.: 2
- * `juncture`           | freq.: 2
- * `keen`               | freq.: 2
- * `kinetic`            | freq.: 2
- * `knell`              | freq.: 2
- * `lackluster`         | freq.: 2
- * `lavish`             | freq.: 2
- * `lissome`            | freq.: 2
- * `malediction`        | freq.: 2
- * `mar`                | freq.: 2
- * `mendacious`         | freq.: 2
- * `mirth`              | freq.: 2
- * `missive`            | freq.: 2
- * `molt`               | freq.: 2
- * `naïve`              | freq.: 2
- * `occlude`            | freq.: 2
- * `occult`             | freq.: 2
- * `orotund`            | freq.: 2
- * `overwrought`        | freq.: 2
- * `panoply`            | freq.: 2
- * `perfidious`         | freq.: 2
- * `permeate`           | freq.: 2
- * `phalanx`            | freq.: 2
- * `plummet`            | freq.: 2
- * `polyglot`           | freq.: 2
- * `potentate`          | freq.: 2
- * `puissance`          | freq.: 2
- * `recluse`            | freq.: 2
- * `rejoinder`          | freq.: 2
- * `repast`             | freq.: 2
- * `repose`             | freq.: 2
- * `requite`            | freq.: 2
- * `rococo`             | freq.: 2
- * `rue`                | freq.: 2
- * `saturate`           | freq.: 2
- * `savor`              | freq.: 2
- * `scurvy`             | freq.: 2
- * `secrete`            | freq.: 2
- * `sedition`           | freq.: 2
- * `seraphic`           | freq.: 2
- * `sobriquet`          | freq.: 2
- * `sportive`           | freq.: 2
- * `stasis`             | freq.: 2
- * `static`             | freq.: 2
- * `stigma`             | freq.: 2
- * `stint`              | freq.: 2
- * `strut`              | freq.: 2
- * `subpoena`           | freq.: 2
- * `sully`              | freq.: 2
- * `symbiosis`          | freq.: 2
- * `table`              | freq.: 2
- * `tome`               | freq.: 2
- * `torrid`             | freq.: 2
- * `vim`                | freq.: 2
- * `voluble`            | freq.: 2
- * `warranted`          | freq.: 2
- * `alchemy`            | freq.: 2
- * `ardor`              | freq.: 2
- * `bombast`            | freq.: 2
- * `cabal`              | freq.: 2
- * `culpable`           | freq.: 2
- * `fallacy`            | freq.: 2
- * `gratuitous`         | freq.: 2
- * `heretical`          | freq.: 2
- * `idolatrous`         | freq.: 2
- * `laud`               | freq.: 2
- * `ominous`            | freq.: 2
- * `ostensible`         | freq.: 2
- * `paean`              | freq.: 2
- * `precis`             | freq.: 2
- * `putrefy`            | freq.: 2
- * `quaff`              | freq.: 2
- * `remuneration`       | freq.: 2
- * `satiate`            | freq.: 2
- * `solvent`            | freq.: 2
- * `succinct`           | freq.: 2
- * `temperate`          | freq.: 2
+ * `vitriol`            (2)
+ * `volubility`         (2)
+ * `abdicate`           (2)
+ * `abscond`            (2)
+ * `adumbrate`          (2)
+ * `aerie`              (2)
+ * `aggregate`          (2)
+ * `anarchy`            (2)
+ * `apprise`            (2)
+ * `ardent`             (2)
+ * `axiom`              (2)
+ * `bane`               (2)
+ * `bevy`               (2)
+ * `bifurcate`          (2)
+ * `bilk`               (2)
+ * `blight`             (2)
+ * `coda`               (2)
+ * `coffer`             (2)
+ * `compliant`          (2)
+ * `converge`           (2)
+ * `cosset`             (2)
+ * `crescendo`          (2)
+ * `declivity`          (2)
+ * `dictum`             (2)
+ * `digress`            (2)
+ * `din`                (2)
+ * `discordant`         (2)
+ * `dissonance`         (2)
+ * `distaff`            (2)
+ * `divest`             (2)
+ * `divine`             (2)
+ * `dogma`              (2)
+ * `effigy`             (2)
+ * `egress`             (2)
+ * `enigma`             (2)
+ * `ethos`              (2)
+ * `explicit`           (2)
+ * `facilitate`         (2)
+ * `fidelity`           (2)
+ * `glower`             (2)
+ * `gradation`          (2)
+ * `grievous`           (2)
+ * `hedonist`           (2)
+ * `husband`            (2)
+ * `imbue`              (2)
+ * `impasse`            (2)
+ * `impious`            (2)
+ * `imprecation`        (2)
+ * `incarnadine`        (2)
+ * `indifferent`        (2)
+ * `inert`              (2)
+ * `ingrate`            (2)
+ * `insensible`         (2)
+ * `insurrection`       (2)
+ * `inter`              (2)
+ * `interregnum`        (2)
+ * `intractable`        (2)
+ * `investiture`        (2)
+ * `juncture`           (2)
+ * `keen`               (2)
+ * `kinetic`            (2)
+ * `knell`              (2)
+ * `lackluster`         (2)
+ * `lavish`             (2)
+ * `lissome`            (2)
+ * `malediction`        (2)
+ * `mar`                (2)
+ * `mendacious`         (2)
+ * `mirth`              (2)
+ * `missive`            (2)
+ * `molt`               (2)
+ * `naïve`              (2)
+ * `occlude`            (2)
+ * `occult`             (2)
+ * `orotund`            (2)
+ * `overwrought`        (2)
+ * `panoply`            (2)
+ * `perfidious`         (2)
+ * `permeate`           (2)
+ * `phalanx`            (2)
+ * `plummet`            (2)
+ * `polyglot`           (2)
+ * `potentate`          (2)
+ * `puissance`          (2)
+ * `recluse`            (2)
+ * `rejoinder`          (2)
+ * `repast`             (2)
+ * `repose`             (2)
+ * `requite`            (2)
+ * `rococo`             (2)
+ * `rue`                (2)
+ * `saturate`           (2)
+ * `savor`              (2)
+ * `scurvy`             (2)
+ * `secrete`            (2)
+ * `sedition`           (2)
+ * `seraphic`           (2)
+ * `sobriquet`          (2)
+ * `sportive`           (2)
+ * `stasis`             (2)
+ * `static`             (2)
+ * `stigma`             (2)
+ * `stint`              (2)
+ * `strut`              (2)
+ * `subpoena`           (2)
+ * `sully`              (2)
+ * `symbiosis`          (2)
+ * `table`              (2)
+ * `tome`               (2)
+ * `torrid`             (2)
+ * `vim`                (2)
+ * `voluble`            (2)
+ * `warranted`          (2)
+ * `alchemy`            (2)
+ * `ardor`              (2)
+ * `bombast`            (2)
+ * `cabal`              (2)
+ * `culpable`           (2)
+ * `fallacy`            (2)
+ * `gratuitous`         (2)
+ * `heretical`          (2)
+ * `idolatrous`         (2)
+ * `laud`               (2)
+ * `ominous`            (2)
+ * `ostensible`         (2)
+ * `paean`              (2)
+ * `precis`             (2)
+ * `putrefy`            (2)
+ * `quaff`              (2)
+ * `remuneration`       (2)
+ * `satiate`            (2)
+ * `solvent`            (2)
+ * `succinct`           (2)
+ * `temperate`          (2)

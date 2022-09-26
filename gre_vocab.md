@@ -49,7 +49,7 @@
  * `obsequious`         (6)
  * `obstinate`          (6)
  * `opaque`             (6)
- * `perfunctory`        (6)
+ * `perfunctory` ❌     (6)
  * `pernicious`         (6)
  * `phlegmatic`         (6)
  * `platitude`          (6)

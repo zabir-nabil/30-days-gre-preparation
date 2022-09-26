@@ -1,0 +1,7 @@
+word_group:
+ word1
+  - specific meaning(s)
+  - usages: [('sentence / paragraph', source)]
+  - mnemonic
+ word2
+ ...

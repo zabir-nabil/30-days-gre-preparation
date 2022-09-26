@@ -1,0 +1,21 @@
+1. If the passage is too long [400-500 or more words] and it appears within first 10 questions, skip it blindly. randomly guess the answers just as a placeholder, probably skim the topic while going to next question(s). Clicking on next button and refresh take some time.
+
+2. If they appear after the first 10 questions, attempt it. If you correctly answer 50% of the questions, you will reach 150 score. 
+
+3. Will aim to answer 18 questions out of 20 in 30 mins. 1.67 mins (1 min 40.2 seconds) / question on average. Will randomly guess 2 really hard questions.
+
+4. Will try to answer 18 questions correctly and with full confidence. In the worst case, there will be 3 mistakes on average.
+
+5. So, 2 missed + 3 wrong answers, 15 correct / 20. On average 30/40 -> 160 in verbal which is a great score.
+
+6. Each time mark one with full confidence, mark it ✓. If slightly unsure, mark it ?. You want to get at least 17 tick marks. One ? max (if answered 18). For guessing, use x [you will always guess, never directly skip. For guessing, don't spend more than 15 secs]. Do it in order, so it's easy to track unanswered / unsure answers.
+
+7. Reading similar to driving. If simple words, simple phrases go fast. If congestion / complex words go slow, but never stop and make sure you never have to go back, don't crash either.
+
+8. Use a pointer (pen) if possible.
+
+9. For RC, read the question first, then read the first and last senteces soon to get an overall idea of the passage. Then start reading fast.
+
+10. While reading, create an ongoing visualization / story on your mind. 
+
+11. While preparing, always maintain an error log. Focus on those questions more.

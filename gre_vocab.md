@@ -5,7 +5,7 @@
  * `alacrity`           (6)
  * `approbation`        (6)
  * `archaic`            (6)
- * *`ascetic`*          (6)
+ * `ascetic` ❌         (6)
  * `assuage`            (6)
  * `attenuate`          (6)
  * `audacious`          (6)

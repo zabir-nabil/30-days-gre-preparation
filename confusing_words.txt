@@ -6,3 +6,5 @@ antipathy | apathy
 abate | abet
 covet | covert
 contrite | contrive
+facetious | factious | fractious
+obstinate | abstain
